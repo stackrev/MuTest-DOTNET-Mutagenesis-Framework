@@ -14,5 +14,5 @@ Your code will be rewritten to meet qualitybars set by these mutators:
 
 # References
 
-A Call For atlas collaboration <a href="https://callforatlas.com"><img width="30" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></img>, with our partner [Muhammad Daniyal Khan](https://github.com/mdaniyalkhan)
+A Call For atlas collaboration <a href="https://callforatlas.com"><img width="15" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></img></a>, with our partner [Muhammad Daniyal Khan](https://github.com/mdaniyalkhan)
 
