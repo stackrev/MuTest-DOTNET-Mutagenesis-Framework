@@ -1,4 +1,4 @@
-# C-Sharp Mutation Test Framework
+# MuTest - DOTNET Mutagenesis Framework
 
 C# and .NET mutatagensis Framework that operates at code level.
 This framework is build around the Google whitepaper on Mutation Testing [here](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf).
